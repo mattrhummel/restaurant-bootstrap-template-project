@@ -1,2 +1,2 @@
-# sentsu-restaraunt-bootstrap-templete
+# restaraunt-bootstrap-templete-project
  
