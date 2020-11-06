@@ -1,0 +1,36 @@
+.navbar-nav {
+	li.nav-item {
+		padding: 0 .3rem;
+			a {
+				font-size: 14px;
+				font-weight: 100;
+				padding: .1rem .1rem;
+			}
+		}
+	li.active {
+		
+		a {
+			background-color: $primary;
+			border-radius: 3px;
+		}
+	}
+	li.callto {
+		background-color: $primary;
+		border-radius: 3px;
+	a {
+		
+		font-weight: 700;
+	}
+
+		}
+}
+.social-links {
+	li {
+		a{
+			color: $white;
+			&:hover {
+				color: $primary;
+			}
+		}
+	}
+}
