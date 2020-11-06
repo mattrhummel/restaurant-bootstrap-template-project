@@ -1,2 +1,2 @@
-# restaraunt-bootstrap-templete-project
+# restaurant-bootstrap-templete-project
  
