@@ -11,9 +11,9 @@
 <!-- menu-section -->
 <?php include 'section-parts/menu-section.php' ?>
 
-  <!-- book a table seciton -->
-  <?php  include 'includes/callto.php'; ?>
-  <!-- .book-a-table -->
+<!-- book a table seciton -->
+<?php  include 'includes/callto.php'; ?>
+<!-- .book-a-table -->
 
 <!-- recipes-section -->
 <?php include 'section-parts/recipes-section.php' ?>
