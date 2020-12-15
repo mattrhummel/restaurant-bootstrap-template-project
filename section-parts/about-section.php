@@ -41,13 +41,13 @@
   </div>
   <div class="container-fluid pb-lg-5">
     <div class="row pb-lg-5">
-      <div class="container py-lg-5">
-        <div class="row justify-content-center">
-          <div class="col-lg-4">
+      <div class="container py-lg-5 w-lg-75">
+        <div class="row d-flex justify-content-center px-3 px-md-5">
+          <div class="col-md-5">
              <div style="background-image: url('/restaurant-bootstrap-template-project/assets/img/about-section-background.svg'); background-position: top center; background-repeat: no-repeat; background-size: contain; min-height: 100%; min-width: 100%;" class="img-responsive py-lg-5">      
              </div>
           </div>
-          <div class="col-lg-8 pt-lg-5">
+          <div class="col-md-7 pt-lg-5">
             <div class="card" style="border: none;">
               <div class="card-body">
                 <h2 class="card-title">Discover</h2>

@@ -21,6 +21,9 @@
 <!-- testimonials-section -->
 <?php include 'section-parts/testimonials-section.php' ?>
 
+<!-- numbers-section -->
+<?php include 'section-parts/numbers-section.php' ?>
+
 <!-- latest-post-section -->
 <?php include 'section-parts/latest-post-section.php' ?>
 

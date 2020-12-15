@@ -1,47 +1,41 @@
 <!-- Latest Post Section -->
 <div class="container-fluid bg-light">
-<div class="row">
+<div class="row p-5">
   <div class="container">
     <div class="row py-5">
       <div class="col-sm-4">
-        <div class="card bg-light" style="border: none;">
-          <div class="card-body">
-            <h2 class="card-title">Latest Post Section</h2>
-            <p class="card-subtitle mb-5 font-weight-bold text-primary text-uppercase">our story</p>
-            <p class="card-text">Simply dummy text of the printing and typesetting industry, lor</p>
-            <ul class="pl-3">
-              <li class="mb-3">When an unknown printer took a galley of type and scrambled  to</li>
-              <li  class="mb-3">It has survived not only five centuries, but also the leap into</li>
-              <li  class="mb-3">Popularised in the 1960s with the release of Letraset containin</li>
-            </ul>
+        <div class="card bg-light p-0" style="border: none;">
+          <div class="bg-primary text-white text-center text-uppercase font-weight-bold py-2 pl-3 pr-4" style="position: absolute; z-index: 10000; top: 0; left:0; border-bottom-right-radius: 25px; line-height: 20px;">May <br/> <span style="font-size: 1.8rem;">12</span></div>
+          <img src="/restaurant-bootstrap-template-project/assets/img/img-placeholder.svg" alt="Card image cap">
+          <div class="card-body  px-0">
+            <p class="card-subtitle">By Adam Dole, 7 comments</p>
+            <h3 class="card-title h5 text-uppercase">Chicken Soboro Donburi</h3>
+            <p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since.</p>
+             <div class="float-right"><a href="#" class="btn btn-link btn-sm">Read more</a></div>
+          </div>
+        </div> 
+      </div>
+      <div class="col-sm-4">
+        <div class="card bg-light p-0" style="border: none;">
+          <div class="bg-primary text-white text-center text-uppercase font-weight-bold py-2 pl-3 pr-4" style="position: absolute; z-index: 10000; top: 0; left:0; border-bottom-right-radius: 25px; line-height: 20px;">May <br/> <span style="font-size: 1.8rem;">10</span></div>
+          <img src="/restaurant-bootstrap-template-project/assets/img/img-placeholder.svg" alt="Card image cap">
+          <div class="card-body  px-0">
+            <p class="card-subtitle">By Adam Dole, 7 comments</p>
+            <h3 class="card-title h5 text-uppercase">Chicken Soboro Donburi</h3>
+            <p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since.</p>
+             <div class="float-right"><a href="#" class="btn btn-link btn-sm">Read more</a></div>
           </div>
         </div>
       </div>
       <div class="col-sm-4">
-        <div class="card bg-light" style="border: none;">
-          <div class="card-body">
-            <h2 class="card-title">Latest Post Section</h2>
-            <p class="card-subtitle mb-5 font-weight-bold text-primary text-uppercase">our story</p>
-            <p class="card-text">Simply dummy text of the printing and typesetting industry, lor</p>
-            <ul class="pl-3">
-              <li class="mb-3">When an unknown printer took a galley of type and scrambled  to</li>
-              <li  class="mb-3">It has survived not only five centuries, but also the leap into</li>
-              <li  class="mb-3">Popularised in the 1960s with the release of Letraset containin</li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <div class="card bg-light" style="border: none;">
-          <div class="card-body">
-            <h2 class="card-title">Latest Post Section</h2>
-            <p class="card-subtitle mb-5 font-weight-bold text-primary text-uppercase">our story</p>
-            <p class="card-text">Simply dummy text of the printing and typesetting industry, lor</p>
-            <ul class="pl-3">
-              <li class="mb-3">When an unknown printer took a galley of type and scrambled  to</li>
-              <li  class="mb-3">It has survived not only five centuries, but also the leap into</li>
-              <li  class="mb-3">Popularised in the 1960s with the release of Letraset containin</li>
-            </ul>
+           <div class="card bg-light p-0" style="border: none;">
+          <div class="bg-primary text-white text-center text-uppercase font-weight-bold py-2 pl-3 pr-4" style="position: absolute; z-index: 10000; top: 0; left:0; border-bottom-right-radius: 25px; line-height: 20px;">May <br/> <span style="font-size: 1.8rem;">07</span></div>
+          <img src="/restaurant-bootstrap-template-project/assets/img/img-placeholder.svg" alt="Card image cap">
+          <div class="card-body  px-0">
+            <p class="card-subtitle">By Adam Dole, 7 comments</p>
+            <h3 class="card-title h5 text-uppercase">Chicken Soboro Donburi</h3>
+            <p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since.</p>
+             <div class="float-right"><a href="#" class="btn btn-link btn-sm">Read more</a></div>
           </div>
         </div>
       </div>

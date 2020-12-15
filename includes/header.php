@@ -7,7 +7,7 @@
     <meta name="description" content="This is a boilerplate for a Bootstrap 4.1.1 project">
     <meta name="keywords" content="HTML, CSS, JS, Sass, JavaScript, framework, bootstrap, front-end, frontend, web development">
     <meta name="author" content="Henrik H. Boelsmand">
-    <title>Sentsu Restaraunt Bootstrap Template</title>
+    <title><?php echo $title; ?> | Sentsu Restaurant Theme</title>
     <link rel="shortcut icon" href="favicon.ico">
     <link rel="stylesheet" href="assets/css/main.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -38,22 +38,22 @@
             </ul>
             <ul class="navbar-nav ml-auto mt-0 p-0">
               <li class="nav-item active text-uppercase">
-                <a class="nav-link" href=".">Home<span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="../">Home<span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item  text-uppercase">
-                <a class="nav-link " href="#">Menu</a>
+                <a class="nav-link " href="menu.php">Menu</a>
               </li>
               <li class="nav-item  text-uppercase">
-                <a class="nav-link" href="#">Recipes</a>
+                <a class="nav-link" href="recipes.php">Recipes</a>
               </li>
               <li class="nav-item  text-uppercase">
-                <a class="nav-link" href="#">News</a>
+                <a class="nav-link" href="blog.php">News</a>
               </li>
               <li class="nav-item text-uppercase">
-                <a class="nav-link" href="#">Contact</a>
+                <a class="nav-link" href="contact.php">Contact</a>
               </li>
               <li class="nav-item text-uppercase callto ml-md-2 pl-md-2">
-                <a class="nav-link" href="#">Book A Table</a>
+                <a class="nav-link" href="reservations.php">Book A Table</a>
               </li>
             </ul>
           </div>

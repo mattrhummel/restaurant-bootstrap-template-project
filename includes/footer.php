@@ -7,24 +7,24 @@
  
               <nav class="navbar navbar-expand-md navbar-light ">
                 <ul class="navbar-nav text-center">
-                <li class="nav-item text-uppercase">
-                  <a class="nav-link" href=".">Home<span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item text-uppercase">
-                  <a class="nav-link " href="#">Menu</a>
-                </li>
-                <li class="nav-item  text-uppercase">
-                  <a class="nav-link" href="#">Recipes</a>
-                </li>
-                <li class="nav-item  text-uppercase">
-                  <a class="nav-link" href="#">News</a>
-                </li>
-                <li class="nav-item  text-uppercase">
-                  <a class="nav-link" href="#">Contact</a>
-                </li>
-                <li class="nav-item text-uppercase">
-                  <a class="nav-link" href="#">Book A Table</a>
-                </li>
+                <li class="nav-item active text-uppercase">
+                <a class="nav-link" href="../">Home<span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item  text-uppercase">
+                <a class="nav-link " href="menu.php">Menu</a>
+              </li>
+              <li class="nav-item  text-uppercase">
+                <a class="nav-link" href="recipes.php">Recipes</a>
+              </li>
+              <li class="nav-item  text-uppercase">
+                <a class="nav-link" href="blog.php">News</a>
+              </li>
+              <li class="nav-item text-uppercase">
+                <a class="nav-link" href="contact.php">Contact</a>
+              </li>
+              <li class="nav-item text-uppercase ml-md-2 pl-md-2">
+                <a class="nav-link" href="reservations.php">Book A Table</a>
+              </li>
               </ul>
           </nav>
               </div>
@@ -33,9 +33,9 @@
                 <span class="text-dark mx-3">|</span>
 
                  <ul class="list-unstyled text-center d-inline-flex m-0">
-                  <li  class="ml-1"><a href="" ><span class="fa fa-facebook"></span></a></li>
-                  <li  class="ml-4 "><a href="" ><span class="fa fa-twitter"></span></a></li>
-                  <li  class="ml-4"><a href="" ><span class="fa fa-instagram"></span></a></li>
+                  <li class="ml-1"><a href="" ><span class="fa fa-facebook"></span></a></li>
+                  <li class="ml-4 "><a href="" ><span class="fa fa-twitter"></span></a></li>
+                  <li class="ml-4"><a href="" ><span class="fa fa-instagram"></span></a></li>
                 </ul>
 
               </div>
