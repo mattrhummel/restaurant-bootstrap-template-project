@@ -32,7 +32,7 @@
                 <p class="d-inline-flex py-2"><a href="tel:540-555-5555" class="text-dark">(540) 555-5555</a></p>
                 <span class="text-dark mx-3">|</span>
 
-                 <ul class="list-unstyled text-center d-inline-flex m-0">
+                 <ul class="list-inline text-center d-inline-flex m-0 footer-social-icons">
                   <li class="ml-1"><a href="" ><span class="fa fa-facebook"></span></a></li>
                   <li class="ml-4 "><a href="" ><span class="fa fa-twitter"></span></a></li>
                   <li class="ml-4"><a href="" ><span class="fa fa-instagram"></span></a></li>

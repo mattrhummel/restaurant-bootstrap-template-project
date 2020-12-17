@@ -24,7 +24,7 @@
           <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
           </button>
-          <div class="collapse navbar-collapse flex-column" id="navbarsExampleDefault">
+          <div class="collapse navbar-collapse flex-column" id="navbarsExampleDefault" >
             <ul class="ml-auto list-inline social-links d-none d-md-block">
               <li class="list-inline-item">
                 <a href="#"><i class="fa fa-facebook"><span class="sr-only">facebook</span></i></a>
@@ -36,7 +36,7 @@
                 <a href="#"><i class="fa fa-instagram"><span class="sr-only">instagram</span></i></a>
               </li>
             </ul>
-            <ul class="navbar-nav ml-auto mt-0 p-0">
+            <ul class="navbar-nav ml-auto mt-0 p-0" >
               <li class="nav-item active text-uppercase">
                 <a class="nav-link" href="../">Home<span class="sr-only">(current)</span></a>
               </li>
@@ -53,7 +53,7 @@
                 <a class="nav-link" href="contact.php">Contact</a>
               </li>
               <li class="nav-item text-uppercase callto ml-md-2 pl-md-2">
-                <a class="nav-link" href="reservations.php">Book A Table</a>
+                <a class="nav-link" href="book-a-table.php">Book A Table</a>
               </li>
             </ul>
           </div>

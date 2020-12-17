@@ -70,13 +70,13 @@
 						<div class="col-xl-6 pt-4 pb-5 pt-xl-0">
 							<div class="col-3 d-inline-block pl-0">
 								<a href="" class="p-0">
-								<img src="/restaurant-bootstrap-template-project/assets/img/icon-file.svg" alt="..." height="55" width="47">
-							</a>
+									<img src="/restaurant-bootstrap-template-project/assets/img/icon-file.svg" alt="..." height="55" width="47">
+								</a>
 							</div>
 							<div class="col-4 d-inline-block p-0">
-															<small class="text-uppercase text-primary font-weight-bold h6">Download</small>
+								<small class="text-uppercase text-primary font-weight-bold h6">Download</small>
 								<p class="text-black">Food Recipe</p>
-						
+								
 							</div>
 						</div>
 					</div>
@@ -107,4 +107,3 @@
 </main>
 <?php  include 'includes/callto.php'; ?>
 <?php  include 'includes/footer.php'; ?>
-<!-- build:js -->
